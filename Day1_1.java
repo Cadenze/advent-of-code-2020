@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Day1_1 {
     public static void main(String[] args) throws FileNotFoundException
     {
-        Scanner s = new Scanner(new BufferedReader(new FileReader("1-1.txt")));
+        Scanner s = new Scanner(new BufferedReader(new FileReader("1.txt")));
 
         int[] array = new int[200];
         int count = 0;
